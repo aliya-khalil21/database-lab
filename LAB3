@@ -1,4 +1,19 @@
-
+/**1. Write a query to report orders which were delayed shipped.
+2. Our employees belong to how many countries. List the names.
+3. Is there any employee who is not accountable?
+4. List the names of products which have been discontinued.
+5. List the IDs the orders on which discount was not provided.
+6. Enlist the names of customers who have not specified their region.
+7. Enlist the names of customers along with contact number who either belongs to UK or USA.
+8. Report the names of companies who have provided their web page.
+9. In which countries, products were sold in year 1997.
+10. List the ids of customers whose orders were never shipped.
+11. Write a query to report suppliers with their id, company name and city. 
+12. Our employees belong to how many countries. List them who are used to live in London. 
+13. List the names of products which have not been discontinued. 
+14. List the IDs the orders on which discount was 0.1 or less. 
+15. Enlist the IDS, names of employees and their contact number with extensions who have not specified their 
+region.**/
 /*1*/
 select *
 from Orders
