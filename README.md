@@ -1,2 +1,2 @@
 # database-lab
-4th semester database labs task
+4th semester database labs HOME task
